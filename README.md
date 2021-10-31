@@ -1,0 +1,2 @@
+# Health-Insurance
+This is #smartcontract for Health Insurance. In this smart contract, every patient has its unique id with unique address, and only owner means doctor can add the data. if the insurance is less than allowed insurance amount then only # it will excecut otherwise it will throw error. and after successful execution, it will show the renaming insurance amount with patient unique id and name.
